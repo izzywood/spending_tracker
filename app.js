@@ -1,5 +1,4 @@
 (() => {
-  console.log(x);
   const STORAGE_KEY ='shopping-tracker:purchases';
 
   /** @typedef {{ id:string, item:string, category:string, price:number, date:string }} Purchase */
